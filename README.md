@@ -2,7 +2,7 @@
 Gemeral communication with a mqttbroker
 
 ## About
-This is a first attempt to establish a general communication with an mqtt broker. the goal is to control iot devices as freely as possible. the focus is on the transmission of spoken orders (e.g. switching operations) and not so much on voice playback.
+This is a first attempt to establish a general communication with an mqtt broker. the goal is to control iot devices as freely as possible. the focus is on the transmission of spoken orders (e.g. switching operations) and not so much on voice playback. This project is just started and on progress. At present it is not yet applicable.
 
 ## Examples
 * "Schalte den schalter an"
